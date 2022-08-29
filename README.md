@@ -1,1 +1,2 @@
 # LuminarAIOReleases
+✨ Welcome to Luminar
